@@ -1,4 +1,4 @@
-pProject: TPED LIT Simulation and Data Point Generator
+Project: TPED LIT Simulation and Data Point Generator
 Programmers: Frederick Wachter - wachterfreddy@gmail.com
              Harrison Katz - hzkatz@gmail.com
 Date Created: 04-01-2016
