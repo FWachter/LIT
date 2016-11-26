@@ -1,5 +1,6 @@
 # LIT
 
+<<<<<<< HEAD
 LIT stands for Light Interactive Technology. This is a project that was being developed under Drexel TPED (Theme Park Engineering and Design) which is a student group at Drexel University located in the Philadelphia, USA. 
 
 This repository contains the MATLAB simulations that were developed in order to create the animation in SolidWork, which is linked below.
