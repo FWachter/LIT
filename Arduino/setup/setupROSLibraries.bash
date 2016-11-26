@@ -1,7 +1,6 @@
 #!/bin/bash
 # PROGRAMMER: Frederick Wachter
 # DATE CREATED: 2016-05-24
-# LAST MODIFIED: 2016-05-24
 # PURPOSE: Setup workspace for Arudino to work with ROS
 # REFERENCE: http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
