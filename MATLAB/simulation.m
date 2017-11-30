@@ -1,5 +1,5 @@
 % PROGRAMMERS: Frederick Wachter, Harrison Katz
-% DATE CREATED: 03-12-2016 | LAST MODIFIED: 03-12-2016
+% DATE CREATED: 2016-03-12 | LAST MODIFIED: 2016-04-01
 
 classdef simulation < handle
     
